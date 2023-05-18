@@ -20,6 +20,9 @@ func handler(w http.ResponseWriter, r *http.Request) {
             background-color: #10203A;
             color: white;
         }
+        .App {
+            font-size: 2em; /* Adjust this value to increase or decrease the font size */
+        }
 		</style>
 	</head>
 	<body>
