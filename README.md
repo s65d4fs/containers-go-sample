@@ -48,20 +48,13 @@
 
  ## Deployment
 
- The project can be deployed on Back4app Containers. Refer to the [Back4app Documentation](https://www.back4app.com/docs/platform/containers) for more information.
+ The project can be deployed on Back4app Containers. Refer to the [Back4app Documentation]https://www.back4app.com/docs-containers) for more information.
 
  ## Built With
 
  - [Go](https://golang.org/)
  - [Docker](https://www.docker.com/)
 
- ## Contributing
-
- Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
-
- ## Versioning
-
- We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/templates-back4app/containers-go-app/tags).
 
  ## Authors
 
